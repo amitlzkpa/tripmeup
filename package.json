@@ -34,7 +34,7 @@
     "raw-loader": "^4.0.1",
     "swagger-jsdoc": "^4.0.0",
     "swagger-ui-express": "^4.1.4",
-    "three": "0.117.1",
+    "three": "0.125.0",
     "vue": "^2.6.11",
     "vue-codemirror-editor": "^1.0.13",
     "vue-router": "^3.1.6",
